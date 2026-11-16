@@ -2,8 +2,13 @@
 
 # 김가연 | AI & Software Developer
 
-## About Me
-숙명여자대학교 인공지능공학부 재학
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=kimgayeon430&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/kimgayeon430"
+  width="600"
+  height="300"
+/>
+</a>
 
 ## Tech Stack
 
