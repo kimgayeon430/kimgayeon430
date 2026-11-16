@@ -3,8 +3,7 @@
 # 김가연 | AI & Software Developer
 
 ## About Me
-
-- 숙명여자대학교 인공지능공학부 재학
+숙명여자대학교 인공지능공학부 재학
 
 ## Tech Stack
 
