@@ -32,6 +32,13 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+## GitAnimals
+
+<div align="center">
+
+<a href="https://www.gitanimals.org/"><img src="https://render.gitanimals.org/farms/kimgayeon430" width="600" height="300"/></a>
+
+</div>
 
 ---
 
